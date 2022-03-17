@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "62327b4fc4726ed36b7bf79f"
+  },
+  "tratamiento": "Periodoncia",
+  "metodo_pago": "Efectivo",
+  "valor": "300000"
+},{
+  "_id": {
+    "$oid": "62327b4fc4726ed36b7bf7a0"
+  },
+  "tratamiento": "Endodoncia",
+  "metodo_pago": "Tarjeta de credito",
+  "valor": "250000"
+},{
+  "_id": {
+    "$oid": "62327b4fc4726ed36b7bf7a1"
+  },
+  "tratamiento": "Ortodoncia",
+  "metodo_pago": "Efectivo",
+  "valor": "1500000"
+}]

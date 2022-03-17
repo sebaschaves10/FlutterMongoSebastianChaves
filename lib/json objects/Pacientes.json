@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "622b6a7bb00cb2cafb6d67fb"
+  },
+  "nombre": "Sebastian",
+  "apellido": "Chaves",
+  "genero": "masculino",
+  "edad": "25",
+  "estrato": "3",
+  "rh": "O+"
+},{
+  "_id": {
+    "$oid": "622b6a7bb00cb2cafb6d67fc"
+  },
+  "nombre": "Juan",
+  "apellido": "Rodrigues",
+  "genero": "masculino",
+  "edad": "21",
+  "estrato": "4",
+  "rh": "A+"
+},{
+  "_id": {
+    "$oid": "622b6e1a0c65ee6e9abd8fbb"
+  },
+  "nombre": "Alirio",
+  "apellido": "Passo",
+  "genero": "masculino",
+  "edad": "27",
+  "estrato": "2",
+  "rh": "O+"
+},{
+  "_id": {
+    "$oid": "622b6e1a0c65ee6e9abd8fbc"
+  },
+  "nombre": "Daniela",
+  "apellido": "Revelo",
+  "genero": "femenino",
+  "edad": "23",
+  "estrato": "3",
+  "rh": "O+"
+},{
+  "_id": {
+    "$oid": "622b6e1a0c65ee6e9abd8fbd"
+  },
+  "nombre": "Cesar",
+  "apellido": "Chaves",
+  "genero": "masculino",
+  "edad": "32",
+  "estrato": "1",
+  "rh": "B+"
+}]

@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "622b7389b00cb2cafb6d67ff"
+  },
+  "cita": "1",
+  "fecha": "10/04/2022",
+  "hora": "10:00 a.m.",
+  "tratamiento": "Limpieza dental",
+  "doctor": "Luis Perez"
+},{
+  "_id": {
+    "$oid": "622b7389b00cb2cafb6d6800"
+  },
+  "cita": "2",
+  "fecha": "15/04/2022",
+  "hora": "9:00 a.m.",
+  "tratamiento": "Tratamiento de conducto 1",
+  "doctor": "Cesar Chaves"
+}]

@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6232772fc4726ed36b7bf783"
+  },
+  "nombre": "Luis",
+  "apellido": "Tupaz",
+  "genero": "masculino",
+  "edad": "32",
+  "cargo": "Odontologo"
+},{
+  "_id": {
+    "$oid": "6232772fc4726ed36b7bf784"
+  },
+  "nombre": "Camilo",
+  "apellido": "Lopez",
+  "genero": "masculino",
+  "edad": "27",
+  "cargo": "Mecanico dental"
+},{
+  "_id": {
+    "$oid": "6232772fc4726ed36b7bf785"
+  },
+  "nombre": "Isabella",
+  "apellido": "Tejada",
+  "genero": "femenino",
+  "edad": "28",
+  "cargo": "Odontologo"
+}]

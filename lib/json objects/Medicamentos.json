@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "62327a76c4726ed36b7bf799"
+  },
+  "nombre": "Amoxixilina",
+  "fecha_expiracion": "12/03/2023"
+},{
+  "_id": {
+    "$oid": "62327a76c4726ed36b7bf79a"
+  },
+  "nombre": "Amplicilina",
+  "fecha_expiracion": "11/08/2025"
+},{
+  "_id": {
+    "$oid": "62327a76c4726ed36b7bf79b"
+  },
+  "nombre": "Sulbactam",
+  "fecha_expiracion": "04/06/2024"
+}]

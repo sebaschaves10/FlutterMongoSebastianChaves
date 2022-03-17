@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "623279c3c4726ed36b7bf793"
+  },
+  "nombre": "Odontologia Preventiva"
+},{
+  "_id": {
+    "$oid": "623279c3c4726ed36b7bf794"
+  },
+  "nombre": "Cirugia Oral y Maxilofacial"
+},{
+  "_id": {
+    "$oid": "623279c3c4726ed36b7bf795"
+  },
+  "nombre": "Implantologia Quirurgica y Protesica"
+}]

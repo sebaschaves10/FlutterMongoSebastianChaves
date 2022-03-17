@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "622b7220b00cb2cafb6d67fd"
+  },
+  "nombre": "Limpieza dental",
+  "fecha": "01/03/2022",
+  "observacion": "Lavarse los dientes despues de cada comida"
+},{
+  "_id": {
+    "$oid": "622b7220b00cb2cafb6d67fe"
+  },
+  "nombre": "Diseño de sonrisa",
+  "fecha": "15/03/2022",
+  "observacion": "No comer alimentos duros por 3 horas"
+}]
